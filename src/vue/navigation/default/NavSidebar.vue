@@ -19,13 +19,7 @@
 
         <!-- Footer -->
         <div class="nav-sidebar-footer" v-if="profileData">
-            <!-- Language Picker -->
-            <LanguagePicker :display-language-label="navigation.isSidebarExpanded()" class="language-picker"/>
-
-            <!-- Credits -->
-            <div class="nav-sidebar-footer-credits text-2 mt-3" :class="!canShrink ? 'mb-3' : 'mb-0'">
-                <span v-html="profileData['locales']['credits']"/>
-            </div>
+         
 
             <!-- Toggle Button -->
             <button class="nav-toggle-button mt-3" @click="_onToggleButton()" v-if="canShrink">

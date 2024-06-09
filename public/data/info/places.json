@@ -1,25 +1,25 @@
 {
     "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+        "logoUrl": "images/places/yeras-logo.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Adobe Inc."}
+            "en": {"name": "Yeras"}
         }
     },
 
     "apple": {
-        "logoUrl": "images/places/logo-apple.png",
+        "logoUrl": "images/places/prophecius-logo.png",
         "faIcon": "fab fa-apple",
         "locales": {
-            "en": {"name": "Apple Inc."}
+            "en": {"name": "Prophecius Technologies."}
         }
     },
 
     "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
+        "logoUrl": "images/places/steamlined-logo.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Coursera"}
+            "en": {"name": "Steamlined Solution"}
         }
     },
 
@@ -40,10 +40,10 @@
     },
 
     "harvard": {
-        "logoUrl": "images/places/logo-harvard.png",
+        "logoUrl": "images/places/aau-logo.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Harvard University"},
+            "en": {"name": "Addis Ababa University"},
             "es": {"name": "Universidad de Harvard"},
             "fr": {"name": "Université Harvard"},
             "zh": {"name": "哈佛大学"}
@@ -70,10 +70,10 @@
     },
 
     "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
+        "logoUrl": "images/places/berhan-bank-logo.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {
-            "en": {"name": "UX Masters Studio"}
+            "en": {"name": "Berhan Bank"}
         }
     }
 }

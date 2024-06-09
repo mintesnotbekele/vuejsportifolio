@@ -4,22 +4,22 @@
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Mintesnot Bekele</a></strong>",
+            "role": "Information Technology Officer"
         },
 
         "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Mintesnot Bekele</a></strong>",
             "role": "Designer de UX"
         },
 
         "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Mintesnot Bekele</a></strong>",
             "role": "Designer UX"
         },
 
         "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Mintesnot Bekele</a></strong>",
             "role": "用户体验设计师"
         }
     },
@@ -27,8 +27,8 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "Addis Ababa, Ethiopia",
+            "valueShort": "Addis Ababa, Ethiopia",
             "faIcon": "fa-solid fa-city",
             "href": null
         },

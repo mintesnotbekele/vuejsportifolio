@@ -42,18 +42,6 @@
             }
         },
 
-        {
-            "id": "languages",
-            "type": "list",
-            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
-            "faIcon": "fa fa-language",
-            "locales": {
-                "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
-            }
-        },
 
         {
             "id": "extra",
@@ -101,8 +89,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Design Principles",
-                        "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
+                        "title": "Backend Development",
+                        "description": "Developed Several Backend apps Using Nodejs/Express, PHP"
                     },
                     "es": {
                         "title": "Principios de Diseño",
@@ -125,8 +113,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Wireframing",
-                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+                        "title": "Front-End Development",
+                        "description": "Able to code in VueJS, React JS, Swift, AngularJS and TypeScript."
                     },
                     "es": {
                         "title": "Creación de Wireframes",
@@ -173,7 +161,7 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Interaction Design",
+                        "title": "Testing",
                         "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
                     },
                     "es": {
@@ -197,8 +185,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Prototyping",
-                        "description": "Skilled in translating concepts into interactive prototypes for testing and refinement."
+                        "title": "Deployment",
+                        "description": "Has deployed several apps on AWS, Digitalocean, playstore and other"
                     },
                     "es": {
                         "title": "Prototipado",
@@ -291,53 +279,7 @@
         ],
 
         "languages": [
-            {
-                "imageIconUrl": "images/flags/en.png",
-                "faIcon": null,
-                "value": 100,
-                "locales": {
-                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
-                    "es": {"title": "Inglés", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
-                    "fr": {"title": "Anglais", "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."},
-                    "zh": {"title": "英语", "description": "母语人士，具有出色的沟通和写作能力。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/es.png",
-                "faIcon": null,
-                "value": 90,
-                "locales": {
-                    "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
-                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
-                    "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
-                    "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/vn.png",
-                "faIcon": null,
-                "value": 40,
-                "locales": {
-                    "en": {"title": "Vietnamese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
-                    "es": {"title": "Vietnamita", "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."},
-                    "fr": {"title": "Vietnamien", "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit."},
-                    "zh": {"title": "越南语", "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/pt.png",
-                "faIcon": null,
-                "value": 10,
-                "locales": {
-                    "en": {"title": "Brazilian Portuguese", "description": "Basic understanding of Brazilian Portuguese; learning and improving."},
-                    "es": {"title": "Portugués Brasileño", "description": "Comprensión básica del portugués brasileño; aprendiendo y mejorando."},
-                    "fr": {"title": "Portugais Brésilien", "description": "Compréhension de base du portugais brésilien ; en cours d'apprentissage et d'amélioration."},
-                    "zh": {"title": "巴西葡萄牙语", "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。"}
-                }
-            }
+            
         ],
 
         "extra": [

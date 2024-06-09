@@ -4,22 +4,22 @@
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "credits": "Designed by <strong><a class='light' href='https://github.com/mintesnotbekele'>Mintesnot Bekele</a></strong>",
+            "role": "Software Developer"
         },
 
         "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/mintesnotbekele'>Mintesnot Bekele</a></strong>",
             "role": "Designer de UX"
         },
 
         "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/mintesnotbekele'>Mintesnot Bekele</a></strong>",
             "role": "Designer UX"
         },
 
         "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "设计：<strong><a class='light' href='https://github.com/mintesnotbekele'>Mintesnot Bekele</a></strong>",
             "role": "用户体验设计师"
         }
     },
@@ -27,18 +27,18 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "Addis Ababa, Ethiopia",
+            "valueShort": "Addis Ababa, Ethiopia",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "mintesnotbekele23@gmail.com",
+            "valueShort": "mintesnotbekele23@gmail.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:mintesnotbekele23@gmail.com"
         },
 
         "facebook": {
@@ -54,7 +54,7 @@
             "value": "@jonas.einstein.official",
             "valueShort": "@jonas.einstein.official",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/mintesnotbekele"
         },
 
         "instagram": {
@@ -62,7 +62,7 @@
             "value": "@jonas.einstein.official",
             "valueShort": "@jonas.einstein.official",
             "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://www.instagram.com/123bkhoods"
         },
 
         "linkedin": {
@@ -70,15 +70,15 @@
             "value": "@jonas.einstein.official",
             "valueShort": "@jonas.einstein.official",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/mintesnot-bekele-1739aa233"
         },
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+251 (915) 80-9706",
+            "valueShort": "(915) 80-9706",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
+            "href": "tel:915809706"
         }
     }
 }

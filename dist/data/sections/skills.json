@@ -234,7 +234,7 @@
                 "faIcon": "fab fa-css3-alt",
                 "value": 90,
                 "locales": {
-                    "en": {"title": "CSS 3", "description": "Experience Time: 3 years"},
+                    "en": {"title": "PHP", "description": "Experience Time: 4 years"},
                     "es": {"title": "CSS 3", "description": "Experiencia: 3 años"},
                     "fr": {"title": "CSS 3", "description": "Expérience : 3 ans"},
                     "zh": {"title": "CSS 3", "description": "经验时长：3年"}
@@ -246,7 +246,7 @@
                 "faIcon": "fab fa-sass",
                 "value": 65,
                 "locales": {
-                    "en": {"title": "Sass/Less", "description": "Experience Time: 2 years"},
+                    "en": {"title": "Flutter", "description": "Experience Time: 2 years"},
                     "es": {"title": "Sass/Less", "description": "Experiencia: 2 años"},
                     "fr": {"title": "Sass/Less", "description": "Expérience : 2 ans"},
                     "zh": {"title": "Sass/Less", "description": "经验时长：2年"}
@@ -288,57 +288,20 @@
                     "zh": {"title": "React", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
                 }
             }
-        ],
-
-        "languages": [
-            {
-                "imageIconUrl": "images/flags/en.png",
-                "faIcon": null,
-                "value": 100,
+            ,   {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-react",
+                "value": 75,
                 "locales": {
-                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
-                    "es": {"title": "Inglés", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
-                    "fr": {"title": "Anglais", "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."},
-                    "zh": {"title": "英语", "description": "母语人士，具有出色的沟通和写作能力。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/es.png",
-                "faIcon": null,
-                "value": 90,
-                "locales": {
-                    "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
-                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
-                    "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
-                    "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/vn.png",
-                "faIcon": null,
-                "value": 40,
-                "locales": {
-                    "en": {"title": "Vietnamese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
-                    "es": {"title": "Vietnamita", "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."},
-                    "fr": {"title": "Vietnamien", "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit."},
-                    "zh": {"title": "越南语", "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/pt.png",
-                "faIcon": null,
-                "value": 10,
-                "locales": {
-                    "en": {"title": "Brazilian Portuguese", "description": "Basic understanding of Brazilian Portuguese; learning and improving."},
-                    "es": {"title": "Portugués Brasileño", "description": "Comprensión básica del portugués brasileño; aprendiendo y mejorando."},
-                    "fr": {"title": "Portugais Brésilien", "description": "Compréhension de base du portugais brésilien ; en cours d'apprentissage et d'amélioration."},
-                    "zh": {"title": "巴西葡萄牙语", "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。"}
+                    "en": {"title": "NextJs", "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"},
+                    "es": {"title": "NextJs", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
+                    "fr": {"title": "NextJs", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
+                    "zh": {"title": "NextJs", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
                 }
             }
         ],
+
+      
 
         "extra": [
             {
