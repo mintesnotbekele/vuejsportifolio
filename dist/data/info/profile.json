@@ -1,5 +1,5 @@
 {
-    "name": "Jonas Einstein",
+    "name": "Mintesnot Bekele",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
@@ -43,7 +43,7 @@
 
         "facebook": {
             "id": "facebook",
-            "value": "Jonas Einstein",
+            "value": "Mintesnot Bekele",
             "valueShort": "J. Einstein",
             "faIcon": "fa-brands fa-facebook",
             "href": "https://facebook.com"

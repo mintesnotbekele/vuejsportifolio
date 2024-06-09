@@ -51,14 +51,14 @@
         },
 
         {
-            "id": "bachelor_harvard",
+            "id": "bachelor_aau",
             "place": "@link{places.harvard}",
-            "period": ["2014/08", "2018/05"],
+            "period": ["2014/09", "2018/05"],
 
             "locales": {
                 "en": {
-                    "title": "Bachelor's in Graphic Design with UX Emphasis",
-                    "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking."
+                    "title": "Bachelor's in Compuer Science",
+                    "description": "Graduated with a solid foundation in  design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking."
                 },
 
                 "es": {
