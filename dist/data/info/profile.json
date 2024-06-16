@@ -44,25 +44,25 @@
         "facebook": {
             "id": "facebook",
             "value": "Mintesnot Bekele",
-            "valueShort": "J. Einstein",
+            "valueShort": "Mintesnot",
             "faIcon": "fa-brands fa-facebook",
             "href": "https://facebook.com"
         },
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@mintesnot",
+            "valueShort": "@mintesnotbekele",
             "faIcon": "fa-brands fa-github",
             "href": "https://github.com"
         },
 
         "instagram": {
             "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@123bkhoods",
+            "valueShort": "@123bkhoods",
             "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://www.instagram.com/123bkhoods/"
         },
 
         "linkedin": {
