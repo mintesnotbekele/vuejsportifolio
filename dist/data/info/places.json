@@ -1,25 +1,25 @@
 {
     "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+        "logoUrl": "images/places/elnet-logo.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Adobe Inc."}
+            "en": {"name": "Elnet Technologies"}
         }
     },
 
     "apple": {
-        "logoUrl": "images/places/logo-apple.png",
-        "faIcon": "fab fa-apple",
+        "logoUrl": "images/places/prophecius-logo.png",
+        "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Apple Inc."}
+            "en": {"name": "Prophecius Technologies"}
         }
     },
 
     "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
-        "faIcon": "fa fa-house-laptop",
+        "logoUrl": "images/places/steamlined-logo.png",
+        "faIcon": "fa fa-robot",
         "locales": {
-            "en": {"name": "Coursera"}
+            "en": {"name": "Steamlined Solutions"}
         }
     },
 
@@ -40,10 +40,10 @@
     },
 
     "harvard": {
-        "logoUrl": "images/places/logo-harvard.png",
+        "logoUrl": "images/places/aau-logo.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Harvard University"},
+            "en": {"name": "Addis Ababa University"},
             "es": {"name": "Universidad de Harvard"},
             "fr": {"name": "Université Harvard"},
             "zh": {"name": "哈佛大学"}
@@ -70,10 +70,18 @@
     },
 
     "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
-        "faIcon": "fas fa-paint-brush",
+        "logoUrl": "images/places/berhan-bank-logo.png",
+        "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "UX Masters Studio"}
+            "en": {"name": "Berhan Bank"}
+        }
+    },
+    
+    "yerras": {
+        "logoUrl": "images/places/yerras-logo.png",
+        "faIcon": "fa fa-laptop-code",
+        "locales": {
+            "en": {"name": "Yerras IT Technology Group"}
         }
     }
 }

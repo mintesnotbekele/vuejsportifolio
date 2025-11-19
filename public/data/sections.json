@@ -47,13 +47,7 @@
             "faIcon": "fa-solid fa-tools"
         },
 
-        {
-            "id": "experience",
-            "categoryId": "background",
-            "component": "TimelineSection",
-            "jsonPath": "data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
-        },
+       
 
         {
             "id": "portfolio",
@@ -85,6 +79,13 @@
             "component": "ContactSection",
             "jsonPath": "data/sections/contact.json",
             "faIcon": "fa-solid fa-pen-to-square"
+        } ,
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase"
         }
     ]
 }

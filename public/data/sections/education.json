@@ -30,23 +30,23 @@
 
             "locales": {
                 "en": {
-                    "title": "Bachelor's in Compuer Science",
-                    "description": "I graduated from Addis Ababa University, one of the most prestigious universities in Ethiopia, with a Bachelor of Science degree in Computer Science. My academic journey spanned four years, from September 2014 to May 2018, during which I gained extensive knowledge and hands-on experience in various areas of computer science."
+                    "title": "BSc. Computer Science",
+                    "description": "Graduated from Addis Ababa University, one of the most prestigious universities in Ethiopia, with a Bachelor of Science degree in Computer Science. My academic journey spanned four years, from 2014 to 2018, during which I gained extensive knowledge and hands-on experience in software development, algorithms, data structures, and computer systems architecture."
                 },
 
                 "es": {
-                    "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
-                    "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo."
+                    "title": "Licenciatura en Ciencias de la Computación",
+                    "description": "Graduado de la Universidad de Addis Abeba, una de las universidades más prestigiosas de Etiopía, con un título de Licenciado en Ciencias de la Computación. Mi viaje académico abarcó cuatro años, desde 2014 hasta 2018, durante los cuales adquirí conocimientos extensos y experiencia práctica en desarrollo de software, algoritmos, estructuras de datos y arquitectura de sistemas computacionales."
                 },
 
                 "fr": {
-                    "title": "Baccalauréat en Design Graphique avec Accent sur l'UX",
-                    "description": "Diplômé avec une base solide en design graphique tout en se spécialisant dans la conception de l'expérience utilisateur. Acquis une expertise en narration visuelle, en design d'interface utilisateur et en réflexion collaborative sur la conception."
+                    "title": "Baccalauréat en Informatique",
+                    "description": "Diplômé de l'Université d'Addis-Abeba, l'une des universités les plus prestigieuses d'Éthiopie, avec un baccalauréat ès sciences en informatique. Mon parcours académique s'est étendu sur quatre ans, de 2014 à 2018, au cours desquels j'ai acquis des connaissances approfondies et une expérience pratique en développement logiciel, algorithmes, structures de données et architecture des systèmes informatiques."
                 },
 
                 "zh": {
-                    "title": "平面设计学士学位，强调 UX",
-                    "description": "毕业于平面设计领域，专攻用户体验设计，掌握了视觉叙事、用户界面设计和协作式设计思维方面的专业知识。"
+                    "title": "计算机科学学士学位",
+                    "description": "毕业于埃塞俄比亚最负盛名的大学之一——亚的斯亚贝巴大学，获得计算机科学学士学位。我的学术之旅历时四年，从2014年到2018年，在此期间我获得了广泛的软件开发、算法、数据结构和计算机系统架构方面的知识和实践经验。"
                 }
             }
         }

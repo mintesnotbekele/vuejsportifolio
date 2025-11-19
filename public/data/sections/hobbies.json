@@ -2,19 +2,19 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Hobbies</span> & Interests",
-            "description": "This is pretty much how I spend my free time:"
+            "description": "Beyond work, this is how I invest my time for continuous growth and balance:"
         },
         "es": {
             "title": "<span class='text-primary'>Pasatiempos</span> e Intereses",
-            "description": "Así es más o menos cómo paso mi tiempo libre:"
+            "description": "Más allá del trabajo, así es como invierto mi tiempo para crecer continuamente y equilibrar:"
         },
         "fr": {
             "title": "<span class='text-primary'>Loisirs</span> et Intérêts",
-            "description": "C'est à peu près ainsi que je passe mon temps libre:"
+            "description": "Au-delà du travail, voici comment j'investis mon temps pour la croissance continue et l'équilibre:"
         },
         "zh": {
             "title": "<span class='text-primary'>爱好</span>与兴趣",
-            "description": "这基本上是我空闲时间的安排："
+            "description": "除了工作之外，这是我投入时间以实现持续成长和平衡的方式："
         }
     },
 
@@ -35,10 +35,10 @@
             "progress": null,
             "faIcon": "fa fa-book-open-reader",
             "locales": {
-                "en": {"title": "Interests"},
-                "es": {"title": "Intereses"},
-                "fr": {"title": "Centres d'intérêt"},
-                "zh": {"title": "兴趣"}
+                "en": {"title": "Technical Interests"},
+                "es": {"title": "Intereses Técnicos"},
+                "fr": {"title": "Intérêts Techniques"},
+                "zh": {"title": "技术兴趣"}
             }
         }
     ],
@@ -47,85 +47,85 @@
         "activities": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-users",
-                "value": 15,
+                "faIcon": "fas fa-laptop-code",
+                "value": 28,
                 "locales": {
-                    "en": {"title": "Family & Friends", "description": "Time spent with cherished loved ones."},
-                    "es": {"title": "Familia y amigos", "description": "Tiempo con seres queridos apreciados."},
-                    "fr": {"title": "Famille et amis", "description": "Temps passé avec des proches chéris."},
-                    "zh": {"title": "家人和朋友", "description": "与珍爱的亲人共度时光，创造终身难忘的回忆。"}
+                    "en": {"title": "Side Projects", "description": "Building and experimenting with new technologies and innovative ideas."},
+                    "es": {"title": "Proyectos Personales", "description": "Construir y experimentar con nuevas tecnologías e ideas innovadoras."},
+                    "fr": {"title": "Projets Personnels", "description": "Construire et expérimenter avec de nouvelles technologies et idées innovantes."},
+                    "zh": {"title": "个人项目", "description": "构建和尝试新技术与创新理念。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-tasks",
-                "value": 26,
+                "faIcon": "fas fa-book-reader",
+                "value": 18,
                 "locales": {
-                    "en": {"title": "My Projects", "description": "Pursuing my creative endeavors."},
-                    "es": {"title": "Mis Proyectos", "description": "Persiguiendo mis proyectos creativos."},
-                    "fr": {"title": "Mes Projets", "description": "Poursuivre mes projets créatifs."},
-                    "zh": {"title": "个人项目", "description": "追求创意事业，将想法变成现实。"}
+                    "en": {"title": "Learning & Research", "description": "Staying current with tech trends, documentation, and expanding skill sets."},
+                    "es": {"title": "Aprendizaje e Investigación", "description": "Mantenerme al día con tendencias tecnológicas, documentación y ampliar habilidades."},
+                    "fr": {"title": "Apprentissage et Recherche", "description": "Rester à jour avec les tendances technologiques, la documentation et développer les compétences."},
+                    "zh": {"title": "学习与研究", "description": "跟上技术趋势、文档学习，拓展技能组合。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-couch",
-                "value": 11,
+                "faIcon": "fas fa-code-branch",
+                "value": 12,
                 "locales": {
-                    "en": {"title": "Relaxing", "description": "Indulging in tranquility, unwinding the stresses of life."},
-                    "es": {"title": "Relajación", "description": "Disfrutando de la tranquilidad, deshaciendo el estrés de la vida."},
-                    "fr": {"title": "Détente", "description": "S'adonner à la tranquillité, dénouer les tensions de la vie."},
-                    "zh": {"title": "放松", "description": "沉浸在宁静中，舒缓生活的压力。"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-book",
-                "value": 9,
-                "locales": {
-                    "en": {"title": "Studying", "description": "Embarking on a continuous journey of learning."},
-                    "es": {"title": "Estudio", "description": "Embarcando en un viaje continuo de aprendizaje."},
-                    "fr": {"title": "Études", "description": "Entamer un voyage continu d'apprentissage."},
-                    "zh": {"title": "学习", "description": "踏上持续的学习和自我提升之旅。"}
+                    "en": {"title": "Open Source", "description": "Contributing to open source projects and collaborating with developers worldwide."},
+                    "es": {"title": "Código Abierto", "description": "Contribuir a proyectos de código abierto y colaborar con desarrolladores de todo el mundo."},
+                    "fr": {"title": "Open Source", "description": "Contribuer à des projets open source et collaborer avec des développeurs du monde entier."},
+                    "zh": {"title": "开源贡献", "description": "为开源项目做贡献，与全球开发者协作。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fas fa-dumbbell",
-                "value": 17,
+                "value": 15,
                 "locales": {
-                    "en": {"title": "Exercise", "description": "Dedicating time to physical well-being."},
-                    "es": {"title": "Ejercicio", "description": "Dedicando tiempo al bienestar físico."},
-                    "fr": {"title": "Exercice", "description": "Consacrer du temps au bien-être physique."},
-                    "zh": {"title": "锻炼", "description": "致力于身体健康，培养健康的生活方式。"}
+                    "en": {"title": "Fitness & Health", "description": "Maintaining physical and mental well-being through regular exercise and mindfulness."},
+                    "es": {"title": "Fitness y Salud", "description": "Mantener el bienestar físico y mental a través del ejercicio regular y mindfulness."},
+                    "fr": {"title": "Fitness et Santé", "description": "Maintenir le bien-être physique et mental grâce à l'exercice régulier et la pleine conscience."},
+                    "zh": {"title": "健身与健康", "description": "通过定期锻炼和正念保持身心健康。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-utensils",
-                "value": 19,
+                "faIcon": "fas fa-users",
+                "value": 14,
                 "locales": {
-                    "en": {"title": "Cooking", "description": "Creating culinary masterpieces."},
-                    "es": {"title": "Cocina", "description": "Creando obras maestras culinarias."},
-                    "fr": {"title": "Cuisine", "description": "Créer des chefs-d'œuvre culinaires."},
-                    "zh": {"title": "烹饪", "description": "创造烹饪杰作，在每道菜肴中注入风味。"}
+                    "en": {"title": "Family & Friends", "description": "Quality time with loved ones and maintaining healthy work-life balance."},
+                    "es": {"title": "Familia y Amigos", "description": "Tiempo de calidad con seres queridos y mantener un equilibrio saludable vida-trabajo."},
+                    "fr": {"title": "Famille et Amis", "description": "Temps de qualité avec les proches et maintien d'un équilibre vie-travail sain."},
+                    "zh": {"title": "家人和朋友", "description": "与亲人共度美好时光，保持健康的工作与生活平衡。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-map",
-                "value": 4,
+                "faIcon": "fas fa-users-cog",
+                "value": 8,
                 "locales": {
-                    "en": {"title": "Exploring", "description": "Venturing into new realms, seeking the thrill of uncharted discoveries."},
-                    "es": {"title": "Exploración", "description": "Adentrándome en nuevos mundos, buscando la emoción de descubrimientos inexplorados."},
-                    "fr": {"title": "Exploration", "description": "S'aventurer dans de nouveaux domaines, rechercher le frisson de découvertes inexplorées."},
-                    "zh": {"title": "探索", "description": "涉足新领域，寻求未知发现的刺激。"}
+                    "en": {"title": "Tech Communities", "description": "Attending meetups, conferences, and networking with fellow developers."},
+                    "es": {"title": "Comunidades Tech", "description": "Asistir a meetups, conferencias y conectar con otros desarrolladores."},
+                    "fr": {"title": "Communautés Tech", "description": "Participer à des meetups, conférences et réseauter avec d'autres développeurs."},
+                    "zh": {"title": "技术社区", "description": "参加技术聚会、会议，与开发者建立联系。"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-gamepad",
+                "value": 5,
+                "locales": {
+                    "en": {"title": "Gaming & Hobbies", "description": "Unwinding with strategic gaming and exploring creative side interests."},
+                    "es": {"title": "Videojuegos y Hobbies", "description": "Relajarse con juegos estratégicos y explorar intereses creativos."},
+                    "fr": {"title": "Jeux et Loisirs", "description": "Se détendre avec des jeux stratégiques et explorer des intérêts créatifs annexes."},
+                    "zh": {"title": "游戏与爱好", "description": "通过策略游戏放松，探索创意副业。"}
                 }
             }
         ],
@@ -133,85 +133,85 @@
         "interests": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-paint-brush",
+                "faIcon": "fas fa-cloud",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "User Experience Design",
-                        "description": "Proficient in crafting user-centric digital experiences. Adept at making technology intuitive and accessible, enhancing user satisfaction."
+                        "title": "Cloud Architecture",
+                        "description": "Passionate about designing scalable cloud solutions using AWS, Azure, and GCP. Exploring serverless architectures and microservices patterns."
                     },
                     "es": {
-                        "title": "Diseño de Experiencia de Usuario",
-                        "description": "Destacada habilidad en crear experiencias digitales centradas en el usuario. Experto en hacer que la tecnología sea intuitiva y accesible, mejorando la satisfacción del usuario."
+                        "title": "Arquitectura en la Nube",
+                        "description": "Apasionado por diseñar soluciones escalables en la nube usando AWS, Azure y GCP. Explorando arquitecturas serverless y patrones de microservicios."
                     },
                     "fr": {
-                        "title": "Conception d'Expérience Utilisateur",
-                        "description": "Compétent dans la création d'expériences numériques centrées sur l'utilisateur. Habile à rendre la technologie intuitive et accessible, améliorant la satisfaction des utilisateurs."
+                        "title": "Architecture Cloud",
+                        "description": "Passionné par la conception de solutions cloud évolutives utilisant AWS, Azure et GCP. Exploration des architectures serverless et des patterns de microservices."
                     },
                     "zh": {
-                        "title": "用户体验设计",
-                        "description": "擅长创造以用户为中心的数字体验。精通使技术直观易用，提升用户满意度。"
+                        "title": "云架构",
+                        "description": "热衷于使用AWS、Azure和GCP设计可扩展的云解决方案。探索无服务器架构和微服务模式。"
                     }
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-code",
+                "faIcon": "fas fa-rocket",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Programming", "description": "Exploring code, algorithms, and building software solutions for real-world challenges."},
-                    "es": {"title": "Programación", "description": "Explorar código, algoritmos y desarrollar soluciones de software para desafíos del mundo real."},
-                    "fr": {"title": "Programmation", "description": "Exploration du code, des algorithmes et création de solutions logicielles pour des défis réels."},
-                    "zh": {"title": "编程", "description": "探索代码、算法，为现实世界的挑战构建软件解决方案。"}
+                    "en": {"title": "DevOps & CI/CD", "description": "Implementing automation pipelines, containerization with Docker/Kubernetes, and streamlining deployment workflows."},
+                    "es": {"title": "DevOps y CI/CD", "description": "Implementar pipelines de automatización, containerización con Docker/Kubernetes y optimizar flujos de despliegue."},
+                    "fr": {"title": "DevOps et CI/CD", "description": "Mise en œuvre de pipelines d'automatisation, conteneurisation avec Docker/Kubernetes et rationalisation des workflows de déploiement."},
+                    "zh": {"title": "DevOps与CI/CD", "description": "实施自动化管道，使用Docker/Kubernetes容器化，优化部署工作流。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-music",
+                "faIcon": "fas fa-brain",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Music", "description": "Playing instruments, composing, and embracing the harmony of diverse musical genres."},
-                    "es": {"title": "Música", "description": "Tocar instrumentos, componer y abrazar la armonía de diversos géneros musicales."},
-                    "fr": {"title": "Musique", "description": "Jouer d'instruments, composer et apprécier l'harmonie de genres musicaux variés."},
-                    "zh": {"title": "音乐", "description": "演奏乐器，作曲，融合多种音乐流派的和谐。"}
+                    "en": {"title": "AI & Machine Learning", "description": "Exploring artificial intelligence, neural networks, and integrating ML models into production-ready applications."},
+                    "es": {"title": "IA y Machine Learning", "description": "Explorar inteligencia artificial, redes neuronales e integrar modelos ML en aplicaciones listas para producción."},
+                    "fr": {"title": "IA et Machine Learning", "description": "Explorer l'intelligence artificielle, les réseaux neuronaux et intégrer des modèles ML dans des applications prêtes pour la production."},
+                    "zh": {"title": "人工智能与机器学习", "description": "探索人工智能、神经网络，将机器学习模型集成到生产就绪的应用中。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-users",
+                "faIcon": "fas fa-pen-fancy",
                 "value": null,
                 "locales": {
-                    "en": {"title": "User Research", "description": "Delving into user behavior and insights to shape effective design strategies."},
-                    "es": {"title": "Investigación de Usuarios", "description": "Profundizar en el comportamiento y perspectivas del usuario para definir estrategias de diseño efectivas."},
-                    "fr": {"title": "Recherche Utilisateur", "description": "Explorer le comportement et les perceptions des utilisateurs pour façonner des stratégies de conception efficaces."},
-                    "zh": {"title": "用户研究", "description": "深入研究用户行为和见解，塑造有效的设计策略。"}
+                    "en": {"title": "Technical Writing", "description": "Sharing knowledge through blog posts, comprehensive documentation, and tutorials for the developer community."},
+                    "es": {"title": "Escritura Técnica", "description": "Compartir conocimiento a través de artículos, documentación completa y tutoriales para la comunidad de desarrolladores."},
+                    "fr": {"title": "Rédaction Technique", "description": "Partager les connaissances via des articles, une documentation complète et des tutoriels pour la communauté des développeurs."},
+                    "zh": {"title": "技术写作", "description": "通过博客文章、完整文档和教程为开发者社区分享知识。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-desktop",
+                "faIcon": "fas fa-project-diagram",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Front-End Development", "description": "Crafting interactive web interfaces using modern technologies for seamless user experiences."},
-                    "es": {"title": "Desarrollo Front-End", "description": "Elaborar interfaces web interactivas utilizando tecnologías modernas para experiencias de usuario fluidas."},
-                    "fr": {"title": "Développement Frontal", "description": "Conception d'interfaces web interactives utilisant des technologies modernes pour des expériences utilisateur fluides."},
-                    "zh": {"title": "前端开发", "description": "使用现代技术打造交互式网页界面，实现无缝的用户体验。"}
+                    "en": {"title": "System Design", "description": "Architecting robust, scalable systems with emphasis on performance optimization, security, and long-term maintainability."},
+                    "es": {"title": "Diseño de Sistemas", "description": "Arquitectura de sistemas robustos y escalables con énfasis en optimización de rendimiento, seguridad y mantenibilidad a largo plazo."},
+                    "fr": {"title": "Conception de Systèmes", "description": "Architecturer des systèmes robustes et évolutifs en mettant l'accent sur l'optimisation des performances, la sécurité et la maintenabilité à long terme."},
+                    "zh": {"title": "系统设计", "description": "架构强大、可扩展的系统，强调性能优化、安全性和长期可维护性。"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-palette",
+                "faIcon": "fas fa-trophy",
                 "value": null,
                 "locales": {
-                    "en": {"title": "Visual Arts", "description": "Exploring visual aesthetics, graphic design, and expressing ideas through artistic creativity."},
-                    "es": {"title": "Artes Visuales", "description": "Explorar la estética visual, el diseño gráfico y expresar ideas a través de la creatividad artística."},
-                    "fr": {"title": "Arts Visuels", "description": "Exploration de l'esthétique visuelle, du design graphique et expression d'idées par la créativité artistique."},
-                    "zh": {"title": "视觉艺术", "description": "探索视觉美学，平面设计，通过艺术创意表达思想。"}
+                    "en": {"title": "Competitive Programming", "description": "Participating in coding competitions, hackathons, and solving algorithmic challenges to sharpen problem-solving abilities."},
+                    "es": {"title": "Programación Competitiva", "description": "Participar en competencias de programación, hackathons y resolver desafíos algorítmicos para agudizar habilidades de resolución de problemas."},
+                    "fr": {"title": "Programmation Compétitive", "description": "Participer à des compétitions de codage, hackathons et résoudre des défis algorithmiques pour affiner les capacités de résolution de problèmes."},
+                    "zh": {"title": "竞技编程", "description": "参加编程竞赛、黑客马拉松，解决算法挑战以提升解决问题的能力。"}
                 }
             }
         ]

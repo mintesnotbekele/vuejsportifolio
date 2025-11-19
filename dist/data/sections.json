@@ -38,7 +38,13 @@
             "jsonPath": "data/sections/education.json",
             "faIcon": "fa-solid fa-graduation-cap"
         },
-
+  {
+            "id": "experience",
+            "categoryId": "background",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase"
+        },
         {
             "id": "skills",
             "categoryId": "showcase",
@@ -47,13 +53,7 @@
             "faIcon": "fa-solid fa-tools"
         },
 
-        {
-            "id": "experience",
-            "categoryId": "background",
-            "component": "TimelineSection",
-            "jsonPath": "data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
-        },
+      
 
         {
             "id": "portfolio",

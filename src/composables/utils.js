@@ -64,14 +64,23 @@ export function useUtils() {
    * @param {String} languageId
    * @return {String}
    */
-  const localizeDate = (stringDate, languageId) => {
-    const date = stringDate === "now" ? new Date() : parseDate(stringDate);
-    const options = { year: "numeric", month: "short" };
+const localizeDate = (stringDate, languageId) => {
+  // Handle "now" or "Present" explicitly
+  if (!stringDate || stringDate.toLowerCase() === "now" || stringDate.toLowerCase() === "present") {
+    return "Present"; // or use i18n for translated string
+  }
 
-    const localizedDate = date.toLocaleString(languageId || "en", options);
+  const date = parseDate(stringDate); // your existing parseDate function
+  if (!date || isNaN(date)) {
+    return stringDate; // fallback in case parsing fails
+  }
 
-    return localizedDate.charAt(0).toUpperCase() + localizedDate.slice(1);
-  };
+  const options = { year: "numeric", month: "short" };
+  const localizedDate = date.toLocaleString("en", options);
+
+  return localizedDate.charAt(0).toUpperCase() + localizedDate.slice(1);
+};
+
 
   /**
    * @param {String} stringDate

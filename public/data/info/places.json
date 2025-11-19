@@ -1,25 +1,25 @@
 {
     "adobe": {
-        "logoUrl": "images/places/yeras-logo.png",
+        "logoUrl": "images/places/elnet-logo.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Yeras"}
+            "en": {"name": "Elnet Technologies"}
         }
     },
 
     "apple": {
         "logoUrl": "images/places/prophecius-logo.png",
-        "faIcon": "fab fa-apple",
+        "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Prophecius Technologies."}
+            "en": {"name": "Prophecius Technologies"}
         }
     },
 
     "coursera": {
         "logoUrl": "images/places/steamlined-logo.png",
-        "faIcon": "fa fa-house-laptop",
+        "faIcon": "fa fa-robot",
         "locales": {
-            "en": {"name": "Steamlined Solution"}
+            "en": {"name": "Steamlined Solutions"}
         }
     },
 
@@ -71,9 +71,17 @@
 
     "uxStudio": {
         "logoUrl": "images/places/berhan-bank-logo.png",
-        "faIcon": "fas fa-paint-brush",
+        "faIcon": "fas fa-university",
         "locales": {
             "en": {"name": "Berhan Bank"}
+        }
+    },
+    
+    "yerras": {
+        "logoUrl": "images/places/yerras-logo.png",
+        "faIcon": "fa fa-laptop-code",
+        "locales": {
+            "en": {"name": "Yerras IT Technology Group"}
         }
     }
 }

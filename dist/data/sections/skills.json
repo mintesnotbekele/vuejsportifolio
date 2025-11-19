@@ -42,18 +42,6 @@
             }
         },
 
-        {
-            "id": "languages",
-            "type": "list",
-            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
-            "faIcon": "fa fa-language",
-            "locales": {
-                "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
-            }
-        },
 
         {
             "id": "extra",
@@ -101,8 +89,8 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Design Principles",
-                        "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
+                        "title": "Backend Development",
+                        "description": "Developed Several Backend apps Using Nodejs/Express, PHP"
                     },
                     "es": {
                         "title": "Principios de Diseño",
@@ -121,96 +109,72 @@
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-vector-square",
+                "faIcon": "fab fa-react",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Wireframing",
-                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+                        "title": "Frontend Development",
+                        "description": "Expert in React.js, Next.js, Vue.js, Redux, MUI, Tailwind CSS, and modern frontend ecosystems"
                     },
                     "es": {
-                        "title": "Creación de Wireframes",
-                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
+                        "title": "Desarrollo Frontend",
+                        "description": "Experto en React.js, Next.js, Vue.js, Redux, MUI, Tailwind CSS y ecosistemas frontend modernos"
                     },
                     "fr": {
-                        "title": "Création de Wireframes",
-                        "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur."
+                        "title": "Développement Frontend",
+                        "description": "Expert en React.js, Next.js, Vue.js, Redux, MUI, Tailwind CSS et écosystèmes frontend modernes"
                     },
                     "zh": {
-                        "title": "线框图设计",
-                        "description": "熟练制作详细的线框图，以便可视化和规划用户界面。"
+                        "title": "前端开发",
+                        "description": "React.js、Next.js、Vue.js、Redux、MUI、Tailwind CSS和现代前端生态系统专家"
                     }
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-check-double",
+                "faIcon": "fas fa-server",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Usability Testing",
-                        "description": "Enhancing user experiences through comprehensive usability testing."
+                        "title": "Full-Stack Development",
+                        "description": "Strong expertise in Node.js, Nest.js, REST APIs, GraphQL, and microservices architecture"
                     },
                     "es": {
-                        "title": "Pruebas de Usabilidad",
-                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
+                        "title": "Desarrollo Full-Stack",
+                        "description": "Fuerte experiencia en Node.js, Nest.js, APIs REST, GraphQL y arquitectura de microservicios"
                     },
                     "fr": {
-                        "title": "Tests d'Utilisabilité",
-                        "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité."
+                        "title": "Développement Full-Stack",
+                        "description": "Forte expertise en Node.js, Nest.js, API REST, GraphQL et architecture microservices"
                     },
                     "zh": {
-                        "title": "可用性测试",
-                        "description": "通过全面的可用性测试提升用户体验。"
+                        "title": "全栈开发",
+                        "description": "在Node.js、Nest.js、REST API、GraphQL和微服务架构方面拥有丰富经验"
                     }
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fas fa-expand-arrows-alt",
+                "faIcon": "fas fa-cloud",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Interaction Design",
-                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
+                        "title": "DevOps & Cloud",
+                        "description": "Experienced with Docker, AWS, CI/CD pipelines, Jenkins, and cloud deployment strategies"
                     },
                     "es": {
-                        "title": "Diseño de Interacción",
-                        "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario."
+                        "title": "DevOps y Cloud",
+                        "description": "Experimentado con Docker, AWS, pipelines CI/CD, Jenkins y estrategias de despliegue en la nube"
                     },
                     "fr": {
-                        "title": "Design d'Interaction",
-                        "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales."
+                        "title": "DevOps et Cloud",
+                        "description": "Expérimenté avec Docker, AWS, pipelines CI/CD, Jenkins et stratégies de déploiement cloud"
                     },
                     "zh": {
-                        "title": "交互设计",
-                        "description": "熟练创建直观流畅的交互，以实现用户友好的体验。"
-                    }
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fas fa-laptop-code",
-                "value": null,
-                "locales": {
-                    "en": {
-                        "title": "Prototyping",
-                        "description": "Skilled in translating concepts into interactive prototypes for testing and refinement."
-                    },
-                    "es": {
-                        "title": "Prototipado",
-                        "description": "Habilidad para traducir conceptos en prototipos interactivos para pruebas y perfeccionamiento."
-                    },
-                    "fr": {
-                        "title": "Prototypage",
-                        "description": "Compétent dans la traduction de concepts en prototypes interactifs pour des tests et affinages."
-                    },
-                    "zh": {
-                        "title": "原型设计",
-                        "description": "熟练将概念转化为交互式原型，以进行测试和完善。"
+                        "title": "DevOps和云",
+                        "description": "拥有Docker、AWS、CI/CD管道、Jenkins和云部署策略的经验"
                     }
                 }
             }
@@ -219,89 +183,80 @@
         "programming": [
             {
                 "imageIconUrl": null,
-                "faIcon": "fab fa-html5",
+                "faIcon": "fab fa-js-square",
                 "value": 95,
                 "locales": {
-                    "en": {"title": "HTML 5", "description": "Experience Time: 5 years"},
-                    "es": {"title": "HTML 5", "description": "Experiencia: 5 años"},
-                    "fr": {"title": "HTML 5", "description": "Expérience : 5 ans"},
-                    "zh": {"title": "HTML 5", "description": "经验时长：5年"}
+                    "en": {"title": "JavaScript", "description": "Expert in modern ES6+ features, async programming, and functional programming"},
+                    "es": {"title": "JavaScript", "description": "Experto en características modernas ES6+, programación asíncrona y funcional"},
+                    "fr": {"title": "JavaScript", "description": "Expert en fonctionnalités ES6+, programmation asynchrone et fonctionnelle"},
+                    "zh": {"title": "JavaScript", "description": "现代ES6+特性、异步编程和函数式编程专家"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fab fa-css3-alt",
+                "faIcon": "fab fa-react",
                 "value": 90,
                 "locales": {
-                    "en": {"title": "PHP", "description": "Experience Time: 4 years"},
-                    "es": {"title": "CSS 3", "description": "Experiencia: 3 años"},
-                    "fr": {"title": "CSS 3", "description": "Expérience : 3 ans"},
-                    "zh": {"title": "CSS 3", "description": "经验时长：3年"}
+                    "en": {"title": "React.js", "description": "5+ years building scalable applications with React, Redux, and modern ecosystem"},
+                    "es": {"title": "React.js", "description": "5+ años construyendo aplicaciones escalables con React, Redux y ecosistema moderno"},
+                    "fr": {"title": "React.js", "description": "5+ ans de construction d'applications évolutives avec React, Redux et écosystème moderne"},
+                    "zh": {"title": "React.js", "description": "5年以上使用React、Redux和现代生态系统构建可扩展应用的经验"}
                 }
             },
 
             {
                 "imageIconUrl": null,
-                "faIcon": "fab fa-sass",
-                "value": 65,
-                "locales": {
-                    "en": {"title": "Flutter", "description": "Experience Time: 2 years"},
-                    "es": {"title": "Sass/Less", "description": "Experiencia: 2 años"},
-                    "fr": {"title": "Sass/Less", "description": "Expérience : 2 ans"},
-                    "zh": {"title": "Sass/Less", "description": "经验时长：2年"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-js-square",
+                "faIcon": "fas fa-code",
                 "value": 85,
                 "locales": {
-                    "en": {"title": "JavaScript", "description": "Experience Time: 3 years"},
-                    "es": {"title": "JavaScript", "description": "Experiencia: 3 años"},
-                    "fr": {"title": "JavaScript", "description": "Expérience : 3 ans"},
-                    "zh": {"title": "JavaScript", "description": "经验时长：3年"}
+                    "en": {"title": "TypeScript", "description": "Strong typing, interfaces, generics, and advanced type system features"},
+                    "es": {"title": "TypeScript", "description": "Tipado fuerte, interfaces, genéricos y características avanzadas del sistema de tipos"},
+                    "fr": {"title": "TypeScript", "description": "Typage fort, interfaces, génériques et fonctionnalités avancées du système de types"},
+                    "zh": {"title": "TypeScript", "description": "强类型、接口、泛型和高级类型系统特性"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-node-js",
+                "value": 80,
+                "locales": {
+                    "en": {"title": "Node.js", "description": "Backend development with Express, Nest.js, and microservices architecture"},
+                    "es": {"title": "Node.js", "description": "Desarrollo backend con Express, Nest.js y arquitectura de microservicios"},
+                    "fr": {"title": "Node.js", "description": "Développement backend avec Express, Nest.js et architecture microservices"},
+                    "zh": {"title": "Node.js", "description": "使用Express、Nest.js和微服务架构进行后端开发"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-database",
+                "value": 75,
+                "locales": {
+                    "en": {"title": "PostgreSQL & MongoDB", "description": "Database design, optimization, and management with SQL and NoSQL"},
+                    "es": {"title": "PostgreSQL & MongoDB", "description": "Diseño, optimización y gestión de bases de datos SQL y NoSQL"},
+                    "fr": {"title": "PostgreSQL & MongoDB", "description": "Conception, optimisation et gestion de bases de données SQL et NoSQL"},
+                    "zh": {"title": "PostgreSQL & MongoDB", "description": "SQL和NoSQL数据库设计、优化和管理"}
                 }
             },
 
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-vuejs",
-                "value": 100,
+                "value": 70,
                 "locales": {
-                    "en": {"title": "Vue 3", "description": "Experience Time: 2 years"},
-                    "es": {"title": "Vue 3", "description": "Experiencia: 2 años"},
-                    "fr": {"title": "Vue 3", "description": "Expérience : 2 ans"},
-                    "zh": {"title": "Vue 3", "description": "经验时长：2年"}
-                }
-            },
-
-            {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-react",
-                "value": 75,
-                "locales": {
-                    "en": {"title": "React", "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"},
-                    "es": {"title": "React", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
-                    "fr": {"title": "React", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
-                    "zh": {"title": "React", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
-                }
-            }
-            ,   {
-                "imageIconUrl": null,
-                "faIcon": "fab fa-react",
-                "value": 75,
-                "locales": {
-                    "en": {"title": "NextJs", "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"},
-                    "es": {"title": "NextJs", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
-                    "fr": {"title": "NextJs", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
-                    "zh": {"title": "NextJs", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
+                    "en": {"title": "Next.js", "description": "Server-side rendering, static generation, and modern React framework"},
+                    "es": {"title": "Next.js", "description": "Renderizado del lado del servidor, generación estática y framework React moderno"},
+                    "fr": {"title": "Next.js", "description": "Rendu côté serveur, génération statique et framework React moderne"},
+                    "zh": {"title": "Next.js", "description": "服务器端渲染、静态生成和现代React框架"}
                 }
             }
         ],
 
-      
+        "languages": [
+            
+        ],
 
         "extra": [
             {

@@ -5,7 +5,7 @@
     "locales": {
         "en": {
             "credits": "Designed by <strong><a class='light' href='https://github.com/mintesnotbekele'>Mintesnot Bekele</a></strong>",
-            "role": "Software Developer"
+            "role": "Frontend Engineer | Full-Stack Developer"
         },
 
         "es": {
@@ -75,10 +75,10 @@
 
         "phone": {
             "id": "phone",
-            "value": "+251 (915) 80-9706",
+            "value": "+251 (915) 809706",
             "valueShort": "(915) 80-9706",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:915809706"
+            "href": "tel:912345678"
         }
     }
 }

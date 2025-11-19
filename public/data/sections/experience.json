@@ -1,121 +1,137 @@
 {
-    "locales": {
-        "en": {
-            "title": "<span class='text-primary'>Professional</span> Experience",
-            "description": "A look into my work experience and career journey."
-        },
-
-        "es": {
-            "title": "<span class='text-primary'>Experiencia</span> Profesional",
-            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
-        },
-
-        "fr": {
-            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
-            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
-        },
-
-        "zh": {
-            "title": "<span class='text-primary'>专业</span> 经验",
-            "description": "了解我的工作经验和职业之旅。"
-        }
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Professional</span> Experience",
+      "description": "An overview of my work experience and career achievements in software development."
     },
-
-    "items": [
-        {
-            "id": "experience_item_1",
-            "place": "@link{places.uxStudio}",
-            "period": ["2019/01", "2020/09"],
-            "locales": {
-                "en": {
-                    "title": "Information Technology Officer",
-                    "description": "My responsibilities included ensuring the smooth operation of all branches, taking daily, monthly, and yearly backups to safeguard against failures, and resolving core banking issues while developing in-house automation applications. Additionally, I assigned computer policies, conducted daily antivirus checks, and assessed vulnerabilities to maintain system security and integrity."
-                },
-                "es": {
-                    "title": "Diseñador de UX",
-                    "description": "Contribuí al diseño de interfaces de aplicaciones web intuitivas y amigables para el usuario, creando experiencias de usuario atractivas y fluidas. Colaboré estrechamente con equipos multifuncionales e interesados para asegurarme de que los diseños se alinearan con los objetivos comerciales y las necesidades de los usuarios."
-                },
-                "fr": {
-                    "title": "Designer UX",
-                    "description": "Contribué à la conception d'interfaces d'applications web intuitives et conviviales, créant ainsi des expériences utilisateur engageantes et fluides. Collaboré étroitement avec des équipes pluridisciplinaires et des parties prenantes pour garantir que les designs soient alignés sur les objectifs commerciaux et les besoins des utilisateurs."
-                },
-                "zh": {
-                    "title": "用户体验设计师",
-                    "description": "为设计直观、用户友好的网络应用界面作出了贡献，创建了引人入胜且无缝的用户体验。与跨职能团队和利益相关者密切合作，确保设计与业务目标和用户需求相一致。"
-                }
-            }
+    "es": {
+      "title": "<span class='text-primary'>Experiencia</span> Profesional",
+      "description": "Una visión general de mi experiencia laboral y logros profesionales en desarrollo de software."
+    },
+    "fr": {
+      "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+      "description": "Un aperçu de mon expérience professionnelle et de mes réalisations dans le développement logiciel."
+    },
+    "zh": {
+      "title": "<span class='text-primary'>专业</span> 经验",
+      "description": "展示我在软件开发领域的工作经验和职业成就。"
+    }
+  },
+  "items": [
+    {
+      "id": "experience_item_1",
+      "place": "@link{places.coursera}",
+      "period": ["2024/04", "Present"],
+      "locales": {
+        "en": {
+          "title": "Frontend Developer",
+          "description": "Project: IVY – AI Automations for Sales Teams (React.js, Redux, MUI, Flask). Designed AI-powered dashboards that boosted sales team productivity by streamlining workflow and reporting. Developed highly optimized UI components with React.memo and code-splitting, reducing load time and enhancing responsiveness. Implemented unit and integration tests (Jest, Cypress) to ensure reliable, high-quality releases."
         },
-
-        {
-            "id": "experience_item_2",
-            "place": "@link{places.adobe}",
-            "period": ["2024/04", "2021/01"],
-            "locales": {
-                "en": {
-                    "title": "Senior Frontend Developer",
-                    "description": "Led design projects, conducted comprehensive user research, and utilized data-driven insights to enhance user experiences. Managed design teams, fostering creativity and innovation while implementing design best practices to deliver successful outcomes for various digital products."
-                },
-                "es": {
-                    "title": "Designer Senior UI/UX",
-                    "description": "Lideré proyectos de diseño, realicé investigaciones exhaustivas sobre usuarios y utilicé información basada en datos para mejorar las experiencias de usuario. Gestioné equipos de diseño, fomentando la creatividad y la innovación al tiempo que implementaba las mejores prácticas de diseño para obtener resultados exitosos en diversos productos digitales."
-                },
-                "fr": {
-                    "title": "Designer UI/UX Senior",
-                    "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs."
-                },
-                "zh": {
-                    "title": "高级UI/UX设计师",
-                    "description": "领导设计项目，进行全面的用户研究，利用数据驱动的见解提升用户体验。管理设计团队，培养创意和创新，同时实施设计最佳实践，为各种数字产品交付成功的结果。"
-                }
-            }
+        "es": {
+          "title": "Desarrollador Frontend",
+          "description": "Proyecto: IVY – Automatizaciones de IA para equipos de ventas (React.js, Redux, MUI, Flask). Diseñé paneles impulsados por IA que mejoraron la productividad del equipo de ventas mediante la optimización de flujos de trabajo e informes. Desarrollé componentes de UI altamente optimizados con React.memo y división de código, reduciendo tiempos de carga y mejorando la capacidad de respuesta. Implementé pruebas unitarias e integrales (Jest, Cypress) para garantizar lanzamientos confiables y de alta calidad."
         },
-
-        {
-            "id": "experience_item_3",
-            "place": "@link{places.apple}",
-            "period": ["2023/07", "2024/03"],
-            "locales": {
-                "en": {
-                    "title": "FullStack Developer",
-                    "description": "Drove UX initiatives by overseeing a team of designers, crafting design strategies, and spearheading cross-functional collaborations with product managers, engineers, and executives. Focused on creating user-centric designs that aligned with business objectives and resulted in enhanced user satisfaction."
-                },
-                "es": {
-                    "title": "Designer UX Principal",
-                    "description": "Impulsé iniciativas de UX supervisando un equipo de diseñadores, elaborando estrategias de diseño y liderando colaboraciones multifuncionales con gerentes de producto, ingenieros y ejecutivos. Centrado en crear diseños centrados en el usuario que se alinearan con los objetivos comerciales y que dieron como resultado una mayor satisfacción del usuario."
-                },
-                "fr": {
-                    "title": "Designer UX Principal",
-                    "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs."
-                },
-                "zh": {
-                    "title": "首席用户体验设计师",
-                    "description": "通过监督设计团队、制定设计战略，并与产品经理、工程师和高管共同推动跨职能合作，推动了用户体验的创新。专注于创建符合业务目标的以用户为中心的设计，从而实现了增强的用户满意度。"
-                }
-            }
+        "fr": {
+          "title": "Développeur Frontend",
+          "description": "Projet : IVY – Automatisations IA pour les équipes commerciales (React.js, Redux, MUI, Flask). Conception de tableaux de bord alimentés par l'IA améliorant la productivité grâce à l'optimisation des flux de travail et des rapports. Développement de composants UI hautement optimisés avec React.memo et code-splitting, réduisant le temps de chargement et améliorant la réactivité. Mise en place de tests unitaires et d'intégration (Jest, Cypress) garantissant des livraisons fiables et de haute qualité."
         },
-
-        {
-            "id": "experience_item_4",
-            "place": "@link{places.coursera}",
-            "period": ["2022/10", "now"],
-            "locales": {
-                "en": {
-                    "title": "Senior Front-end Developer",
-                    "description": "Leveraged my expertise in UX design to educate and inspire students in the art of user-centered design principles. Conducted user studies, analyzed data, and guided students in applying theoretical knowledge to practical projects, empowering the next generation of UX designers."
-                },
-                "es": {
-                    "title": "Profesor de Tiempo Completo en UX Design",
-                    "description": "Utilicé mi experiencia en diseño UX para educar e inspirar a los estudiantes en el arte de los principios de diseño centrado en el usuario. Realicé estudios de usuarios, analicé datos y orienté a los estudiantes en la aplicación de conocimientos teóricos a proyectos prácticos, empoderando a la próxima generación de diseñadores UX."
-                },
-                "fr": {
-                    "title": "Professeur à temps plein en UX Design",
-                    "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX."
-                },
-                "zh": {
-                    "title": "全职用户体验设计教授",
-                    "description": "利用我的用户体验设计专业知识，教育和激励学生学习以用户为中心的设计原则。进行用户研究，分析数据，并指导学生将理论知识应用于实际项目，培养下一代用户体验设计师。"
-                }
-            }
+        "zh": {
+          "title": "前端开发工程师",
+          "description": "项目：IVY – 销售团队AI自动化（React.js, Redux, MUI, Flask）。设计AI驱动的仪表板，通过优化工作流程和报告，提高销售团队生产力。构建高性能UI组件，使用React.memo和代码分割，提升加载速度和响应性能。实现单元和集成测试（Jest, Cypress），确保发布质量和稳定性。"
         }
-    ]
+      }
+    },
+    {
+      "id": "experience_item_2",
+      "place": "@link{places.adobe}",
+      "period": ["2022/03", "2024/12"],
+      "locales": {
+        "en": {
+          "title": "Senior Frontend Developer",
+          "description": "Taxiye (Passenger App) – Developed a custom ride-booking & delivery system (Next.js, Strapi CMS, Node.js, PostgreSQL), improving booking speed and overall UX. ELTNT Tours & Travel – Built a tour package booking platform (React, Ant Design, .NET), increasing user engagement and sales. Houfa Africa (Security Service) – Led frontend development of a real-time alert system (React, Tailwind, Redux, Node.js, Flutter), delivering a pixel-perfect UI and improving operational efficiency."
+        },
+        "es": {
+          "title": "Desarrollador Frontend Senior",
+          "description": "Taxiye (Aplicación de Pasajeros) – Desarrollé un sistema personalizado de reservas de viajes y entregas (Next.js, Strapi CMS, Node.js, PostgreSQL), mejorando la velocidad de reserva y la experiencia de usuario. ELTNT Tours & Travel – Construí una plataforma de reservas de paquetes turísticos (React, Ant Design, .NET), aumentando la interacción de los usuarios y las ventas. Houfa Africa (Servicio de Seguridad) – Lideré el desarrollo frontend de un sistema de alertas en tiempo real (React, Tailwind, Redux, Node.js, Flutter), entregando una UI precisa y mejorando la eficiencia operativa."
+        },
+        "fr": {
+          "title": "Développeur Frontend Senior",
+          "description": "Taxiye (Application Passager) – Développement d'un système personnalisé de réservation et livraison (Next.js, Strapi CMS, Node.js, PostgreSQL), optimisant la rapidité et l'expérience utilisateur. ELTNT Tours & Travel – Création d'une plateforme de réservation de forfaits touristiques (React, Ant Design, .NET), augmentant l'engagement et les ventes. Houfa Africa (Service de Sécurité) – Supervision du développement frontend d'un système d'alerte en temps réel (React, Tailwind, Redux, Node.js, Flutter), livrant une UI parfaite et améliorant l'efficacité opérationnelle."
+        },
+        "zh": {
+          "title": "高级前端开发工程师",
+          "description": "Taxiye（乘客应用）– 构建定制乘车和配送系统（Next.js, Strapi CMS, Node.js, PostgreSQL），提升预订速度和用户体验。ELTNT旅游 – 开发旅游套餐预订平台（React, Ant Design, .NET），增加用户参与度和销售额。Houfa Africa（安全服务）– 领导实时警报系统前端开发（React, Tailwind, Redux, Node.js, Flutter），实现像素级UI，提高运营效率。"
+        }
+      }
+    },
+    {
+      "id": "experience_item_3",
+      "place": "@link{places.apple}",
+      "period": ["2023/07", "2024/05"],
+      "locales": {
+        "en": {
+          "title": "FullStack Developer",
+          "description": "ReserveXp (Travel SaaS) – Developed a multi-tenant subscription-based SaaS platform (React, Node.js, MongoDB) with secure role-based access. Passio (Super App) – Led development of a multi-service platform (e-commerce, taxi, delivery) using React, MUI, Node.js, Flutter. Curewantri (Telemedicine App) – Built subscription-based medical consultation platform (React Native, Laravel, MySQL), improving patient engagement. LiveGamer (Sports Betting) – Integrated real-time odds APIs & Stripe payments, optimizing transaction efficiency."
+        },
+        "es": {
+          "title": "Desarrollador FullStack",
+          "description": "ReserveXp (SaaS de Viajes) – Desarrollé una plataforma SaaS multi-inquilino basada en suscripciones (React, Node.js, MongoDB) con acceso seguro basado en roles. Passio (Super App) – Lideré el desarrollo de una plataforma multi-servicio (e-commerce, taxi, entrega) usando React, MUI, Node.js, Flutter. Curewantri (App de Telemedicina) – Construí una plataforma de consultas médicas por suscripción (React Native, Laravel, MySQL), mejorando la interacción con los pacientes. LiveGamer (Apuestas Deportivas) – Integré APIs de probabilidades en tiempo real y pagos con Stripe, optimizando la eficiencia de las transacciones."
+        },
+        "fr": {
+          "title": "Développeur FullStack",
+          "description": "ReserveXp (SaaS de Voyage) – Développement d'une plateforme SaaS multi-locataire basée sur l'abonnement (React, Node.js, MongoDB) avec accès sécurisé par rôle. Passio (Super App) – Supervision du développement d'une plateforme multi-services (e-commerce, taxi, livraison) utilisant React, MUI, Node.js, Flutter. Curewantri (Application de Télémédecine) – Création d'une plateforme de consultation médicale par abonnement (React Native, Laravel, MySQL), améliorant l'engagement des patients. LiveGamer (Paris Sportifs) – Intégration d'APIs d'odds en temps réel et Stripe, optimisant les transactions."
+        },
+        "zh": {
+          "title": "全栈开发工程师",
+          "description": "ReserveXp（旅游SaaS）– 开发多租户订阅制SaaS平台（React, Node.js, MongoDB），支持基于角色的安全访问。Passio（超级应用）– 领导多服务平台开发（电商、出租车、配送），使用React, MUI, Node.js, Flutter。Curewantri（远程医疗应用）– 构建订阅式医疗咨询平台（React Native, Laravel, MySQL），提高患者参与度。LiveGamer（体育博彩）– 集成实时赔率API与Stripe支付，提高交易效率。"
+        }
+      }
+    },
+    {
+      "id": "experience_item_4",
+      "place": "@link{places.yerras}",
+      "period": ["2020/10", "2022/01"],
+      "locales": {
+        "en": {
+          "title": "Full-Stack Developer",
+          "description": "Developed an agriculture e-commerce platform (React, Node.js, PostgreSQL), improving digital trade efficiency. Designed financial management dashboards, streamlining SME transactions and reducing manual errors."
+        },
+        "es": {
+          "title": "Desarrollador Full-Stack",
+          "description": "Desarrollé una plataforma de comercio electrónico agrícola (React, Node.js, PostgreSQL), mejorando la eficiencia del comercio digital. Diseñé paneles de gestión financiera, optimizando transacciones de PYMEs y reduciendo errores manuales."
+        },
+        "fr": {
+          "title": "Développeur Full-Stack",
+          "description": "Développement d'une plateforme de commerce électronique agricole (React, Node.js, PostgreSQL), améliorant l'efficacité du commerce numérique. Conception de tableaux de bord de gestion financière, rationalisant les transactions pour les PME et réduisant les erreurs manuelles."
+        },
+        "zh": {
+          "title": "全栈开发工程师",
+          "description": "开发农业电子商务平台（React, Node.js, PostgreSQL），提升数字贸易效率。设计财务管理仪表板，优化中小企业交易流程并减少人工错误。"
+        }
+      }
+    },
+    {
+      "id": "experience_item_5",
+      "place": "@link{places.uxStudio}",
+      "period": ["2019/01", "2020/09"],
+      "locales": {
+        "en": {
+          "title": "IT Officer",
+          "description": "Managed core banking IT infrastructure, ensuring high system uptime and security. Developed automation tools that streamlined daily operations, reducing manual effort and operational risk."
+        },
+        "es": {
+          "title": "Oficial de TI",
+          "description": "Gestioné la infraestructura de TI bancaria principal, asegurando alta disponibilidad y seguridad del sistema. Desarrollé herramientas de automatización que optimizaron las operaciones diarias, reduciendo el esfuerzo manual y el riesgo operativo."
+        },
+        "fr": {
+          "title": "Officier TI",
+          "description": "Gestion de l'infrastructure informatique bancaire principale, assurant une haute disponibilité et sécurité du système. Développement d'outils d'automatisation pour rationaliser les opérations quotidiennes, réduisant le travail manuel et les risques opérationnels."
+        },
+        "zh": {
+          "title": "IT专员",
+          "description": "管理核心银行IT基础设施，确保系统高可用性和安全性。开发自动化工具，简化日常操作，减少人工工作量和操作风险。"
+        }
+      }
+    }
+  ]
 }
